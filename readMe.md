@@ -13,9 +13,6 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-<sub>Author: <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small></sub>
-
 </div>
 
 [Day 1 >>](./01_Day_JavaScript_Refresher/01_javascript_refresher.md)
@@ -55,11 +52,6 @@
 | 30    |                                      [Conclusions](./30_conclusions/30_conclusions.md)                                      |
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
-
-<div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
-</div>
 
 ---
 
